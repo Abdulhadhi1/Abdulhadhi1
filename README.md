@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern stack learning**
 
-- 👨‍💻 All of my projects are available at [https://fabulous-bunny-1a705e.netlify.app/](https://fabulous-bunny-1a705e.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fabulous-bunny-1a705e.netlify.app/](https://abdulprotfolio.netlify.app/)
 
 - 💬 Ask me about **Html,css,javascript,react,Nodejs,MongoDB,MySQL,aws**
 
