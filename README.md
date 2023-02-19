@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Mern stack learning**
 
-- 👨‍💻 All of my projects are available at [https://fabulous-bunny-1a705e.netlify.app/](https://abdulprotfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdulprotfolio.netlify.app/](https://abdulprotfolio.netlify.app/)
 
 - 💬 Ask me about **Html,css,javascript,react,Nodejs,MongoDB,MySQL,aws**
 
 - 📫 How to reach me **hadhi3336@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ftXO703t4s48IBw3PtzzY9wnLk5GjICJ/view](https://drive.google.com/file/d/1ftXO703t4s48IBw3PtzzY9wnLk5GjICJ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1awRc2vVXxkCFK5QXKgAo44blHdLH3bm3/view](https://drive.google.com/file/d/1awRc2vVXxkCFK5QXKgAo44blHdLH3bm3/view)
 
 - ⚡ Fun fact **I think i am funny**
 
